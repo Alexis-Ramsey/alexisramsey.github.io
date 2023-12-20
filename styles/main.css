@@ -1,9 +1,12 @@
 ﻿style{
     width:100%;
+
 }
 table{
     width: 100%;
     font-size:larger;
+    position:fixed;
+    color:cornsilk;
 }
 th, td{
            /* TOP RIGHT BOTTOM LEFT*/
@@ -27,6 +30,10 @@ th{
     height:30px;
     padding: 10px 0px 10px 0px;
     text-align:center;
+}
+tr{
+    width:100%;
+    height:200%;
 }
 td{
     text-transform:uppercase;

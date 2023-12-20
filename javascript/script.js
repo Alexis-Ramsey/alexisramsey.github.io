@@ -6,6 +6,8 @@ var day5 = document.getElementById("day5");
 var day6 = document.getElementById("day6");
 var day7 = document.getElementById("day7");
 
+var table = document.getElementById("weatherTable");
+
 LoadCoordinates();
 
 class Weather {
